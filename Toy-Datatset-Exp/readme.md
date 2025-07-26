@@ -1,0 +1,1 @@
+Put the two files under PatchTST\PatchTST_supervised\data_provider\
